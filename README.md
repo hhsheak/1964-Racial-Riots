@@ -1,4 +1,4 @@
-# 1964-Racial-Riots1
+# 1964-Racial-Riots
 This project was inspired by this lesson on the Programming Historian (https://programminghistorian.org/en/lessons/finding-places-world-historical-gazetteer#65-named-entity-recognition).
 
 ## Process
